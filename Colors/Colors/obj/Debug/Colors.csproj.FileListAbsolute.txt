@@ -1,0 +1,10 @@
+D:\WPF\Colors\Colors\bin\Debug\Colors.exe.config
+D:\WPF\Colors\Colors\bin\Debug\Colors.exe
+D:\WPF\Colors\Colors\bin\Debug\Colors.pdb
+D:\WPF\Colors\Colors\obj\Debug\Colors.csprojAssemblyReference.cache
+D:\WPF\Colors\Colors\obj\Debug\Colors.Form1.resources
+D:\WPF\Colors\Colors\obj\Debug\Colors.Properties.Resources.resources
+D:\WPF\Colors\Colors\obj\Debug\Colors.csproj.GenerateResource.cache
+D:\WPF\Colors\Colors\obj\Debug\Colors.csproj.CoreCompileInputs.cache
+D:\WPF\Colors\Colors\obj\Debug\Colors.exe
+D:\WPF\Colors\Colors\obj\Debug\Colors.pdb
